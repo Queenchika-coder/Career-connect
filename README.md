@@ -1,2 +1,2 @@
 # Career-connect
-Created for students and businesses 
+Professional career connection for students and businesses 
